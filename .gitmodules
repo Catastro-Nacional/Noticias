@@ -1,0 +1,3 @@
+[submodule "scrappers-noticias-de-chile"]
+	path = scrappers-noticias-de-chile
+	url = https://github.com/pabloBad/scrappers-noticias-de-chile
